@@ -1,0 +1,4 @@
+## How to create environment conda with all libraries
+
+command:
+conda env create -f environment.yml
